@@ -10,6 +10,7 @@ const config: Config = {
     extend: {
       gridTemplateRows: {
         "myColTemp": "25%, 75%",
+        "myColTemp2": "20%, 80%",
       },
       gridTemplateColumns: {
         "barTemp": "80%, 20%",
