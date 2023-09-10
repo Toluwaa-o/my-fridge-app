@@ -9,8 +9,8 @@ const config: Config = {
   theme: {
     extend: {
       gridTemplateRows: {
-        "myColTemp": "25%, 75%",
-        "myColTemp2": "20%, 80%",
+        "myColTemp": "auto, auto",
+        "myColTemp2": "auto, auto",
       },
       gridTemplateColumns: {
         "barTemp": "80%, 20%",
